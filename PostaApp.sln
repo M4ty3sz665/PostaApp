@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostaApp", "PostaApp\PostaApp.csproj", "{37017510-D251-2862-F8C3-01A554E80219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostaApp.Android", "PostaApp.Android\PostaApp.Android.csproj", "{6049D705-8B38-4E95-466D-090C50D3D67F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostaApp.Desktop", "PostaApp.Desktop\PostaApp.Desktop.csproj", "{08F46BE0-A9A1-149F-CDAB-9E2AB50180A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37017510-D251-2862-F8C3-01A554E80219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37017510-D251-2862-F8C3-01A554E80219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37017510-D251-2862-F8C3-01A554E80219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37017510-D251-2862-F8C3-01A554E80219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6049D705-8B38-4E95-466D-090C50D3D67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6049D705-8B38-4E95-466D-090C50D3D67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6049D705-8B38-4E95-466D-090C50D3D67F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6049D705-8B38-4E95-466D-090C50D3D67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6049D705-8B38-4E95-466D-090C50D3D67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6049D705-8B38-4E95-466D-090C50D3D67F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{08F46BE0-A9A1-149F-CDAB-9E2AB50180A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F46BE0-A9A1-149F-CDAB-9E2AB50180A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F46BE0-A9A1-149F-CDAB-9E2AB50180A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F46BE0-A9A1-149F-CDAB-9E2AB50180A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D1B0B50-4556-4E5F-BA64-D997C0985299}
+	EndGlobalSection
+EndGlobal
